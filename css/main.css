@@ -47,7 +47,7 @@ body{
 
 
 .navbar ul li a:hover{
-  background: #fd2928;
+  background: #000;
   color #fff;
 }
 
@@ -72,7 +72,7 @@ section{
   text-transform: uppercase;
   font-size: 15em;
   color: rgba(255, 255, 255, .1);
-  background-image: url("../img/bg1.jpg");
+  background-image: url("../img/bg2.jpg");
   background-repeat: repeat-x;
   background-position: 0 0;
   -webkit-background-clip: text;
